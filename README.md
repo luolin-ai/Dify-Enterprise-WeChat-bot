@@ -13,6 +13,34 @@
 配置灵活：用户可以通过配置文件自由设置是否启用上下文管理，以及选择会话类型（每个消息都是新的会话，还是启用会话管理），以实现更灵活和个性化的机器人行为。
 
 通过以上功能，这个聊天机器人能够提供具有上下文理解能力的智能对话服务，能够处理来自不同用户的私人聊天和群聊，适应不同的聊天场景和需求。
-###
-#Dify企微机器人项目交流群
+
+## 快速开始
+
+**1.打开dify官网登录进去**
+
+**2.创建自己的应用**
+![image](https://github.com/luolin-ai/Dify-Enterprise-WeChat-bot/assets/135555634/79509f35-2c98-4742-8860-006d286cb694)
+
+**3.选择对话型应用**
+![image](https://github.com/luolin-ai/Dify-Enterprise-WeChat-bot/assets/135555634/f871a335-012b-4d43-af4f-1851c3ad2534)
+
+**3.点击构建好应用页面的api访问**
+![image](https://github.com/luolin-ai/Dify-Enterprise-WeChat-bot/assets/135555634/58b5010d-996d-430a-abe8-41066814c7b4)
+
+**4.生成自己应用key**
+![image](https://github.com/luolin-ai/Dify-Enterprise-WeChat-bot/assets/135555634/2961ed63-bc6c-4a71-ab8e-88be9d424c27)
+
+**打开项目的配置文件填写自己的dify的key**
+![image](https://github.com/luolin-ai/Dify-Enterprise-WeChat-bot/assets/135555634/605b48d1-4c0b-4e52-a203-99127c33f627)
+
+**运行项目的的app软件**
+
+![image](https://github.com/luolin-ai/Dify-Enterprise-WeChat-bot/assets/135555634/3c511fa1-79c3-4ad8-b297-f7ed35a05d6d)
+
+
+![image](https://github.com/luolin-ai/Dify-Enterprise-WeChat-bot/assets/135555634/fecd6610-3462-4137-b420-ba98cbb9058f)
+
+## Dify企微机器人项目交流群**
 ![29c0a15bdcc1b5afaf7308f2c98bbb2](https://github.com/luolin-ai/Dify-Enterprise-WeChat-bot/assets/135555634/7ea27489-91cd-48bc-8ba1-377b1120236d)
+
+
