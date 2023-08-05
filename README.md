@@ -46,6 +46,7 @@
 ![image](https://github.com/luolin-ai/Dify-Enterprise-WeChat-bot/assets/135555634/fecd6610-3462-4137-b420-ba98cbb9058f)
 
 ## Dify企微机器人项目交流群**
-![29c0a15bdcc1b5afaf7308f2c98bbb2](https://github.com/luolin-ai/Dify-Enterprise-WeChat-bot/assets/135555634/7ea27489-91cd-48bc-8ba1-377b1120236d)
+![111111111111](https://github.com/luolin-ai/Dify-Enterprise-WeChat-bot/assets/135555634/e5089c44-3b3e-4aea-a078-650e3ae1146c)
+
 
 
