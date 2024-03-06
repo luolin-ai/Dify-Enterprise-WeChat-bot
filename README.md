@@ -58,5 +58,6 @@
 
 ## Dify企微机器人项目交流群**
 
-![img.png](img1.png)
+添加小助手入群
+![微信图片_20240307051544](https://github.com/luolin-ai/Dify-Enterprise-WeChat-bot/assets/135555634/279afe8d-c602-4dcb-b16c-f0d7fdc4b23d)
 
