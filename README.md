@@ -52,13 +52,11 @@
 ![img_1.png](img_1.png)
 **运行项目的的app软件**
 
-![image](https://github.com/luolin-ai/Dify-Enterprise-WeChat-bot/assets/135555634/3c511fa1-79c3-4ad8-b297-f7ed35a05d6d)
-
 
 ![image](https://github.com/luolin-ai/Dify-Enterprise-WeChat-bot/assets/135555634/fecd6610-3462-4137-b420-ba98cbb9058f)
+
 
 ## Dify企微机器人项目交流群**
 
 添加小助手入群加微信备注dify
 ![微信图片_20240307051544](https://github.com/luolin-ai/Dify-Enterprise-WeChat-bot/assets/135555634/279afe8d-c602-4dcb-b16c-f0d7fdc4b23d)
-
