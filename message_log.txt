@@ -1,0 +1,1 @@
+2024-04-27 18:38:01,135 - INFO - Group ID: R:10954392443485625, Message sent to User ID: 7881303351921861, Message: Failed to get a response from Dify API, please try again later.
