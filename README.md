@@ -1,7 +1,6 @@
 # Dify-企微机器人
 ## Dify-Enterprise-WeChat-bot
 
-![Logo](https://github.com/luolin-ai/Dify-Enterprise-WeChat-bot/assets/135555634/79509f35-2c98-4742-8860-006d286cb694)
 
 ## 📌 介绍
 
