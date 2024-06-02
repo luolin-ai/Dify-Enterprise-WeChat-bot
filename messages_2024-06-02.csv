@@ -1,0 +1,6 @@
+﻿Group ID,Group Name,Sender ID,Sender Nickname,Message,Timestamp
+7881303351921861,Private Chat,7881303351921861,粹一·X,你是,2024-06-02 10:15:50
+7881303351921861,私聊,45,发送者,"An exception occurred: HTTPSConnectionPool(host='api.dify.ai', port=443): Max retries exceeded with url: /v1/chat-messages (Caused by ProxyError('Unable to connect to proxy', FileNotFoundError(2, 'No such file or directory')))",2024-06-02 10:15:50
+7881303351921861,Private Chat,7881303351921861,粹一·X,您好,2024-06-02 10:16:11
+7881303351921861,私聊,45,发送者,"Error during the API call: [DIFY] response text={""code"": ""unauthorized"", ""message"": ""Access token is invalid"", ""status"": 401}
+ status_code=401",2024-06-02 10:16:15

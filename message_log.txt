@@ -1,2 +1,8 @@
 2024-04-27 18:38:01,135 - INFO - Group ID: R:10954392443485625, Message sent to User ID: 7881303351921861, Message: Failed to get a response from Dify API, please try again later.
 2024-05-20 14:46:00,785 - INFO - User ID: 7881303351921861, Message sent: 是的，我是洛林AI互联训练的大语言模型AI问答机器人。在各个行业领域都具备专家的身份，可以为您提供专业的指导和解答。不论您有关金融、企业管理、创业、短视频脚本、文案创作、工作、生活、个人职业规划等方面的问题，我都能提供有用的建议和策略。请随时向我提问，让我们一起探讨解决方案！\U0001f31f\U0001f4a1\U0001f916
+2024-06-01 09:01:21,710 - INFO - User ID: 7881303351921861, Message sent: Failed to get a response from Dify API, please try again later.
+2024-06-02 10:15:50,240 - ERROR - An exception occurred: HTTPSConnectionPool(host='api.dify.ai', port=443): Max retries exceeded with url: /v1/chat-messages (Caused by ProxyError('Unable to connect to proxy', FileNotFoundError(2, 'No such file or directory')))
+2024-06-02 10:16:15,837 - WARNING - [DIFY] response text={"code": "unauthorized", "message": "Access token is invalid", "status": 401}
+ status_code=401
+2024-06-02 10:16:15,840 - INFO - User ID: 7881303351921861, Message sent: Error during the API call: [DIFY] response text={"code": "unauthorized", "message": "Access token is invalid", "status": 401}
+ status_code=401

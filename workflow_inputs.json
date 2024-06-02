@@ -1,0 +1,14 @@
+{
+    "project_id": "translation_project_001",
+    "task_name": "translate_text",
+    "parameters": {
+        "source_language": "en",
+        "target_language": "zh",
+        "text_to_translate": "Hello, how are you?"
+    },
+    "options": ["formal", "technical"],
+    "metadata": {
+        "created_by": "translator_user",
+        "timestamp": "2024-06-01T12:00:00Z"
+    }
+}
