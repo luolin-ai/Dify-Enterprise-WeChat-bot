@@ -70,7 +70,7 @@
 
 5. **打开项目的配置文件填写自己的 Dify Key**
 
-    ![填写 Key](img_1.png)
+   ![img_2.png](img_2.png) ![填写 Key](img_1.png)
 
 6. **运行项目的 app 软件**
 
