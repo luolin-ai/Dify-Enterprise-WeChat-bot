@@ -79,5 +79,5 @@
 ## 💬 Dify 企微机器人项目交流群
 
 添加小助手入群加微信备注 Dify
+![微信群](https://github.com/user-attachments/assets/ad716ccf-210b-4dd4-899a-fbb83c7d9319)
 
-![微信群](https://github.com/luolin-ai/Dify-Enterprise-WeChat-bot/assets/135555634/279afe8d-c602-4dcb-b16c-f0d7fdc4b23d)
