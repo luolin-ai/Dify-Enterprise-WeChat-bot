@@ -23,7 +23,7 @@
 ## [V1.0.07-beta.1] - 2025-03-14
 ## dify本版本即将更新以下功能如需快速体验可先点击下方项目进行抢先体验NextFlow-APP版本
 # NextFlow-APP V1.0.07-beta.1 更新说明
-https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/releases/edit/1.0.07-beta.1
+https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/releases/tag/1.0.07-beta.1
 ![image](https://github.com/user-attachments/assets/dec1f60d-34d2-45bd-a9c4-2a02fc616b4b)
 
 ## 主要更新：
