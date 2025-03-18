@@ -60,6 +60,7 @@ https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/releases/tag/1.0.07-beta.1
 - Dify 图像识别和文件发送功能
 - 自动基于用户对话进行知识库训练，实现机器人的自我学习和迭代
 - 批量添加好友功能
+- 
 ## 赞助支持
 
 如果您觉得这个项目对您有帮助，欢迎打赏以支持我们的工作：
