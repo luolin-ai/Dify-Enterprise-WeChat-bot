@@ -35,9 +35,10 @@
 
 如需进一步交流和支持，欢迎扫描下方二维码添加微信进群：
 
-<div align="center">
-  <img src="https://github.com/luolin-ai/CozeBot-WxworkPro/raw/main/tu/wx.jpg" alt="微信" width="300"/>
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a47df31b-12d0-495b-a37c-601a7185390e" alt="微信二维码" width="300"/>
+</p>
+
 
 ## 🚀 最近更新
 
