@@ -31,12 +31,13 @@
   <img src="https://github.com/luolin-ai/CozeBot-WxworkPro/raw/main/tu/106f2de5438c9c7cfd35e00a989b0cd.jpg" alt="赞助" width="300"/>
 </div>
 
+
 ## 联系我们
 
 如需进一步交流和支持，欢迎扫描下方二维码添加微信进群：
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a47df31b-12d0-495b-a37c-601a7185390e" alt="微信二维码" width="300"/>
+  <img src="https://github.com/user-attachments/assets/4dac94f7-c8d9-4045-8949-6a5abbf5defd" alt="微信二维码" width="300"/>
 </p>
 
 
